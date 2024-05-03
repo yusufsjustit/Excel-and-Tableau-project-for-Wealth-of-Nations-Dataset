@@ -44,7 +44,7 @@ Embark on your own quest for knowledge:
 ## 🎉 Contributing
 ![Dashboard 1](https://github.com/yusufsjustit/Excel-and-Tableau-project-for-Wealth-of-Nations-Dataset/assets/125282550/7aa7bde7-2b1f-42f3-b750-6bded2beec1a)
 
-
+[Link to my dashboard](https://public.tableau.com/app/profile/yusuf1911/viz/WealthofNationsDashboard_16825854613080/Dashboard1)
 
 
 Join the fellowship of data enthusiasts! 🤝 If you stumble upon a treasure map or have ideas to enrich our quest, share your insights by opening an issue or sending a pull request!
